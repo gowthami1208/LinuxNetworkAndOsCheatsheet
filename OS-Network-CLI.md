@@ -3,7 +3,7 @@
 ## <b>OS commands<b>
 
 ### [ps command](https://www.journaldev.com/24613/linux-ps-command)
-It is used to get the information about the oricess running within your system.
+It is used to get the information about the processes running within your system.
 
 
 
